@@ -232,10 +232,10 @@ export const MOVE_TYPES = {
   'Nasty Plot': 'Dark', 'Calm Mind': 'Psychic', 'Swords Dance': 'Normal', 'Coil': 'Poison',
   'Iron Defense': 'Steel', 'Stored Power': 'Psychic', 'Megahorn': 'Bug', 'Rock Blast': 'Rock',
   'Pin Missile': 'Bug', 'Accelerock': 'Rock', 'X-Scissor': 'Bug', 'Aerial Ace': 'Flying',
-  'Acrobatics': 'Flying', 'Dragon Rush': 'Dragon', 'Heavy Slam': 'Steel', 'High Horsepower': 'Ground',
+  'Dragon Rush': 'Dragon', 'Heavy Slam': 'Steel', 'High Horsepower': 'Ground',
   'Bullet Seed': 'Grass', 'Beak Blast': 'Flying', 'Ice Hammer': 'Ice', 'Avalanche': 'Ice',
   'Bug Bite': 'Bug', 'Power Whip': 'Grass', 'Tidy Up': 'Normal', 'Quick Attack': 'Normal',
-  'Close Combat': 'Fighting', 'Psycho Cut': 'Psychic', 'Shadow Force': 'Ghost',
+  'Psycho Cut': 'Psychic', 'Shadow Force': 'Ghost',
   'Flamethrower': 'Fire', 'Air Slash': 'Flying', 'Solar Beam': 'Grass',
 };
 
