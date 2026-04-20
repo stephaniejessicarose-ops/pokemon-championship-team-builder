@@ -179,12 +179,6 @@ export default function BuilderTab({ team, onTeamChange }) {
     if (selSlot < 5) setSelSlot(s => s + 1);
   }
 
-  function removeFromSlot(i) {
-    const updated = [...team];
-    updated[i] = null;
-    onTeamChange(updated);
-  }
-
   const allMoves = selPoke
     ? [...new Set([...selPoke.moves, 'Earthquake','Ice Beam','Thunderbolt','Protect',
         'Rock Slide','Tailwind','Helping Hand','Trick Room','Wide Guard','Fake Out'])]
